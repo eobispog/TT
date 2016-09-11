@@ -5,7 +5,7 @@
   <author>Mike Hamer</author>
   <license>BSD</license>
   <review status="unreviewed" notes=""/>
-  <url>https://github.com/eobispog/TT</url>
+  <url>http://github.com/mikehamer/ardrone_tutorials</url>
 
   <depend package="ardrone_autonomy" />
   <depend package="joy" />

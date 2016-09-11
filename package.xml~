@@ -12,7 +12,7 @@
 	<run_depend>joy</run_depend>
 	
 	<license>BSD</license>
-	<url>http://github.com/mikehamer/ardrone_tutorials</url>
+	<url>https://github.com/eobispog/TT</url>
 </package>
 
 
