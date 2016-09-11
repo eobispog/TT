@@ -257,6 +257,7 @@ class KeyboardController(DroneVideoDisplay):
 # Setup the application
 if __name__=='__main__':
 	
+	show_image()
 	import sys
 	# Firstly we setup a ros node, so that we can communicate with the other packages
 	rospy.init_node('ardrone_keyboard_controller')
@@ -267,7 +268,7 @@ if __name__=='__main__':
 	display = KeyboardController()
 	
 	display.show()
-	show_image()
+	
 	# executes the QT application
 	status = app.exec_()
 	
